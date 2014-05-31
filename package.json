@@ -1,0 +1,26 @@
+{
+  "name": "hubot-glossary",
+  "version": "0.0.0",
+  "description": "a brief dictionary of your own lingo",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maxbeatty/hubot-glossary"
+  },
+  "keywords": [
+    "hubot",
+    "glossary"
+  ],
+  "author": "Max Beatty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxbeatty/hubot-glossary/issues"
+  },
+  "homepage": "https://github.com/maxbeatty/hubot-glossary",
+  "dependencies": {
+    "hubot": ">= 2.4.0"
+  }
+}
